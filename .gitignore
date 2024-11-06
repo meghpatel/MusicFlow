@@ -2,3 +2,6 @@ __pycache__/
 .stfolder/
 .DS_Store
 Apple Music Activity/
+New Data/
+backup/
+.vscode/
