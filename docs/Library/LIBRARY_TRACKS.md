@@ -55,7 +55,7 @@ This data dictionary describes the fields in the Apple Music Library Tracks.json
 | `Movement Number` | Float |  | 0.0 |
 | `Movement Count` | Float |  | 0.0 |
 | `Display Work Name` | Boolean |  | False |
-| `Playlist Only Track` | String |  | nan |
+| `Playlist Only Track` | Boolean | If True that the track is present only in Playlist and not added in Library. "False" and nan aren't useful here. | nan |
 | `Sort Album Artist` | String | Album Artist name to be sorted | nan |
 | `Tag Matched Track Identifier` | Float |  | nan |
 
