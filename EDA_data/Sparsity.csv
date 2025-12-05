@@ -1,0 +1,126 @@
+,0,1
+0,Album Name,34.37109184121383
+1,Apple ID Number,0.0
+2,Apple Music Subscription,0.0
+3,Auto Play,0.41286721163482165
+4,Build Version,0.4882351479613387
+5,Bundle Version,11.892811886600244
+6,Camera Option,100.0
+7,Carrier Name,100.0
+8,Client Build Version,99.23969488409074
+9,Client Device Name,0.0
+10,Client IP Address,50.60170116199137
+11,Client Platform,0.0
+12,Container Album Name,90.17193828111412
+13,Container Artist Name,99.99875767137924
+14,Container Global Playlist ID,95.46798519144284
+15,Container ID,78.55326691016307
+16,Container iTunes Playlist ID,97.59775055697733
+17,Container Library ID,99.94533754068627
+18,Container Name,96.77077380508692
+19,Container Origin Type,68.1814793649216
+20,Container Personalized ID,99.99958589045974
+21,Container Playlist ID,97.0179972006195
+22,Container Radio Station ID,92.53733197505404
+23,Container Radio Station Version,92.9162422043879
+24,Container Season ID,100.0
+25,Container Type,0.017392600690734714
+26,Contingency,100.0
+27,Device App Name,3.2197016754872
+28,Device App Version,3.2197016754872
+29,Device Identifier,0.19628792208114892
+30,Device OS Name,3.2197016754872
+31,Device OS Version,3.2197016754872
+32,Device Type,3.2197016754872
+33,Display Count,93.11377245508982
+34,Display Language,92.08967956203776
+35,Display Type,0.0
+36,End Position In Milliseconds,7.024954240895802
+37,End Reason Type,43.00072055060005
+38,Evaluation Variant,15.5651352895868
+39,Event End Timestamp,35.08128970275217
+40,Event ID,0.0
+41,Event Post Date Time,95.50773970730738
+42,Event Reason Hint Type,0.0
+43,Event Received Timestamp,0.0
+44,Event Start Timestamp,0.9412709850009524
+45,Event Timestamp,70.7336364615168
+46,Event Type,0.0
+47,Feature Name,1.3988620269833778
+48,Grouping,100.0
+49,House ID,100.0
+50,IP City,35.6618712781905
+51,IP Country Code,35.6618712781905
+52,IP Latitude,35.81177893176303
+53,IP Longitude,35.81177893176303
+54,IP Network,48.00730489229011
+55,IP Network Type,53.30749289802138
+56,IP Region Code,36.53895528445184
+57,Is CMA Station,93.77427717179748
+58,Is Collaborative,99.8732824806818
+59,Is Delegated,0.0024846572415335305
+60,Is Heatseeker Station,93.77427717179748
+61,Is Heavy Rotation Station,93.77427717179748
+62,Is Subscription Owner?,98.92124464763418
+63,Is Vocal Attenuation,66.21280261054653
+64,Item Type,0.0
+65,Key Request,100.0
+66,Lease Limit,100.0
+67,Legacy Playback ID,100.0
+68,Local Radio Station ID,99.97680986574568
+69,Local Radio Station TuneIn ID,100.0
+70,Matched Content,100.0
+71,Media Bundle App Name,11.892811886600244
+72,Media Bundle Type,0.0024846572415335305
+73,Media Duration In Milliseconds,0.8211792183268318
+74,Media Type,0.0
+75,Metrics Client ID,24.27261659254106
+76,Milliseconds Since Play,0.0
+77,Offline,0.0
+78,Ownership Type,1.7421588358552607
+79,Personalized Name,97.59733644743707
+80,Play Duration Milliseconds,7.024954240895802
+81,Promotion Scenario ID,98.92124464763418
+82,Provided Audio Bit Depth,49.9329142544786
+83,Provided Audio Channel,49.9329142544786
+84,Provided Audio Sample Rate,49.9329142544786
+85,Provided Bit Rate,49.9329142544786
+86,Provided Codec,49.9329142544786
+87,Provided Playback Format,49.9329142544786
+88,Provider ID,72.48159283093564
+89,Radio Format,100.0
+90,Radio Seed ID,96.98155556107702
+91,Radio Station Country,100.0
+92,Radio Station ID,99.91345110608658
+93,Radio Station Position,100.0
+94,Radio Type,99.6446940144607
+95,Radio User ID,100.0
+96,Referral ID,95.99307608848693
+97,Repeat Play,0.41286721163482165
+98,Report Type,99.6446940144607
+99,Royalty Free,72.48159283093564
+100,Session Is Shared,4.782965189952046
+101,Shared Activity Devices-Current,99.97556753712492
+102,Shared Activity Devices-Max,99.97556753712492
+103,Shared Activity Type,99.9962730141377
+104,Shuffle Play,0.41286721163482165
+105,Siri Request,11.470420155539543
+106,Song Name,1.7421588358552607
+107,Source Model,100.0
+108,Source Radio Name,100.0
+109,Source Radio Type,99.6401388095179
+110,Source Type,0.0
+111,Start Position In Milliseconds,0.0
+112,Store Front Name,0.0
+113,Subscribed State,100.0
+114,Subscription Bundle ID,98.92124464763418
+115,Subscription Discovery Mode,100.0
+116,Subscription Offer ID,100.0
+117,Subscription Pool Type,98.92124464763418
+118,Subscription User ID,98.92124464763418
+119,Use Listening History,7.6278977315079395
+120,User’s Audio Quality,49.74532263274281
+121,User’s Playback Format,49.74532263274281
+122,UTC Offset In Seconds,0.0
+123,Vocal Attenuation Duration,66.21280261054653
+124,Vocal Attenuation Model ID,100.0

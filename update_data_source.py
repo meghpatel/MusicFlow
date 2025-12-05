@@ -2,9 +2,6 @@
 This script extracts zip files, updates data directories,
 moves files outside of directories, and updates a configuration file.
 """
-
-# TODO: Check for Idempotency. Can I run again with nothing happening?
-# TODO: The extracted JSON files has ".zip" in the end. 
 import os
 import shutil
 import zipfile
@@ -101,8 +98,6 @@ for root, dirs, files in os.walk(DATA_PATH):
     for directory in dirs:
         for file in os.listdir(os.path.join(root, directory)):
             os.rename(os.path.join(root, directory, file), os.path.join(DATA_PATH, file))
-            
-# The extracted files should be renamed from ".json.zip" to ".json"
 
 # Remove empty directories
 for root, dirs, files in os.walk(DATA_PATH, topdown=False):
